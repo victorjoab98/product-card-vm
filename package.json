@@ -38,7 +38,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "vm-product-card",
+  "name": "product-card-vm",
   "author": "victor.morales@telus.com",
   "module": "dist/vm-product-card.esm.js",
   "size-limit": [
