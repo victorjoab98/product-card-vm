@@ -1,4 +1,4 @@
-# VM-Product Card
+# Product Card VM
 
 Este es un paquete de pruebas de despligue en npm.
 
@@ -7,7 +7,7 @@ Este es un paquete de pruebas de despligue en npm.
 ## Ejemplo
 
 ```
-impoert { ProductButtons, ProductCard, ProductImage, ProductTitle } from 'vm-product-card'
+impoert { ProductButtons, ProductCard, ProductImage, ProductTitle } from 'product-card-vm'
 ```
 
 ```
